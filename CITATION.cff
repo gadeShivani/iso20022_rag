@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Gade"
+    given-names: "Shivani"
+    email: "gadeshivani@gmail.com"
+    website: "https://shivani.nyc"
+title: "ISO20022 RAG: An Adaptive Multi-RAG Architecture for Financial Message Processing"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567  # You can get a DOI by publishing on Zenodo
+date-released: 2025-08-08
+url: "https://github.com/gadeShivani/iso20022_rag"
+repository-code: "https://github.com/gadeShivani/iso20022_rag"
+keywords:
+  - iso20022
+  - rag
+  - llm
+  - financial-services
+  - natural-language-processing
+  - machine-learning
+  - python
+  - financial-messaging
+  - banking
+license: MIT
+type: software
+abstract: |
+  An innovative approach to processing ISO20022 financial messages using multiple
+  Retrieval-Augmented Generation (RAG) techniques. The system combines Simple RAG,
+  Context-Enriched RAG, and Reranker RAG with an adaptive weighting mechanism to
+  provide accurate, compliant, and context-aware processing of financial messages.
+  
+  Key features include:
+  - Adaptive Multi-RAG Architecture
+  - Financial Domain-Specific Evaluation
+  - Business-Technical Bridge
+  - Compliance-Aware Processing
+  - Dynamic Query Handling
+references:
+  - authors:
+      - family-names: "Gade"
+        given-names: "Shivani"
+    title: "ISO20022 RAG: Technical Documentation"
+    type: documentation
+    url: "https://github.com/gadeShivani/iso20022_rag/docs"
+    year: 2025
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Gade"
+      given-names: "Shivani"
+  title: "ISO20022 RAG: An Adaptive Multi-RAG Architecture for Financial Message Processing"
+  year: 2025
+  journal: "arXiv"  # If you plan to submit to arXiv
+  # journal: "Journal of Financial Technology"  # Or another relevant journal
+  volume: 1
+  issue: 1
+  start: 1  # Page numbers if applicable
+  end: 20   # Page numbers if applicable 
